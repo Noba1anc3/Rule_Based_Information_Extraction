@@ -2,7 +2,7 @@ pip==19.0.3
 Click==7.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-PyYAML==5.1
+PyYAML==5.4
 argh==0.26.2
 arrow==0.13.2
 binaryornot==0.4.4
