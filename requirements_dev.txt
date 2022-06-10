@@ -8,7 +8,7 @@ arrow==0.13.2
 binaryornot==0.4.4
 certifi==2019.3.9
 chardet==3.0.4
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 distconfig==0.1.0
 future==0.17.1
 googleapis-common-protos==1.5.10
