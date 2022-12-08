@@ -6,7 +6,7 @@ PyYAML==5.1
 argh==0.26.2
 arrow==0.13.2
 binaryornot==0.4.4
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 cookiecutter==1.6.0
 distconfig==0.1.0
